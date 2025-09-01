@@ -1,10 +1,10 @@
 {
   "name": "dastresi",
   "short_name": "dastresi",
-  "start_url": "/dastresi-rtk",
+  "start_url": "/dastresi",
   "display": "standalone",
   "description": "dastresi - Comprehensive Online Services Platform",
-  "id": "/dastresi-rtk",
+  "id": "/dastresi",
   "background_color": "#ffffff",
   "theme_color": "#0a5abd",
   "icons": [
