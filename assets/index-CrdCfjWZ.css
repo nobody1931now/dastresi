@@ -2976,3 +2976,8 @@ button.swiper-pagination-bullet {
 .swiper-rtl .swiper-button-prev:after {
   content: "next";
 }
+
+body {
+  background-color: #fff;
+  color: #000;
+}
